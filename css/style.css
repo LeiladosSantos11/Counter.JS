@@ -1,0 +1,44 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgb(211, 206, 201);
+  height: 100vh;
+}
+
+html {
+  font-size: 16px;
+}
+
+h1,
+.value {
+  font-size: 3rem;
+}
+
+button {
+  height: 3em;
+  width: 4.8em;
+
+  margin-left: 1em;
+  margin-top: 1.3em;
+  color: rgb(247, 243, 243);
+  border: 3px rgb(37, 37, 37) solid;
+  font-size: 1.5rem;
+  border-radius: 10px;
+}
+
+.decrease {
+  background-color: teal;
+}
+
+.reset {
+  background-color: thistle;
+}
+
+.increase {
+  background-color: tomato;
+}
