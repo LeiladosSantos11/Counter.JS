@@ -1,3 +1,3 @@
 # Counter.JS
 
-Creating a small project with JavaScript.
+Creating a counter with JavaScript.
