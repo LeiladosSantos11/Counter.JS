@@ -1,3 +1,4 @@
 # Counter.JS
 
-Creating a counter with JavaScript.
+*** Built a counter with JavaScript.
+https://leiladossantos11.github.io/Counter.JS/
