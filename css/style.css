@@ -15,20 +15,21 @@ html {
 }
 
 h1,
-.value {
-  font-size: 3rem;
+#value {
+  font-size: 4rem;
 }
 
 button {
   height: 3em;
-  width: 4.8em;
-
-  margin-left: 1em;
-  margin-top: 1.3em;
+  width: 6em;
+  padding: 1em;
+  margin: 1.3em;
   color: rgb(247, 243, 243);
   border: 3px rgb(37, 37, 37) solid;
-  font-size: 1.5rem;
   border-radius: 10px;
+  font-weight: 900;
+  font-size: 30px;
+  text-align: center;
 }
 
 .decrease {
@@ -36,9 +37,11 @@ button {
 }
 
 .reset {
-  background-color: thistle;
+  background-color: rgb(206, 113, 206);
+  color: black;
 }
 
 .increase {
-  background-color: tomato;
+  background-color: rgba(167, 28, 4, 0.986);
+  color: lightblue;
 }
